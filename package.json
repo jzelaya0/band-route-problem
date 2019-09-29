@@ -1,0 +1,23 @@
+{
+  "name": "band-route-problem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jzelaya0/band-route-problem.git",
+  "author": "Jesse Zelaya <jessezelaya1@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.6.2",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "bable-loader": "^0.0.1-security",
+    "webpack-cli": "^3.3.9"
+  }
+}
