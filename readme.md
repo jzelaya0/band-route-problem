@@ -28,3 +28,13 @@ If you have questions on the challenge, please contact Jared Sartin: jared@leftf
 # Candidate Notes:
 
 ### Fill in comments, external tool usage, and time tracking
+
+Time researching: 3 hours
+Time settings up project: 30 minutes
+Time writing solution: 2:30 hours
+
+Tools Used:
+Webpack & Babel
+
+Notes:
+After spending time researching, I've found that this problem is known as the Traveling Salesman Problem. Looking further I found that the most accurate algorithm for finding the best route would be using the *Brute Force* approach. The downfall of this approach though is that it's not very efficient when dealing with larger instances since it has to try all permutations. I went ahead with this approach though for the sake of time and I used a shortened version of the sample data (full data crashed the browser calculating all permutations). What I would like to improve if I had more time would be the UI.
